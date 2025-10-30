@@ -52,7 +52,7 @@ Semantic Search relies on two core components:
 ### 1️⃣ Clone the repository 
 
 ```bash
-    git clone [https://github.com/Aashish2k1S/Semantic_Search_API.git](https://github.com/Aashish2k1S/Semantic_Search_API.git)
+    git clone https://github.com/Aashish2k1S/Semantic_Search_API.git
     cd Semantic_Search_API
 ```
 
