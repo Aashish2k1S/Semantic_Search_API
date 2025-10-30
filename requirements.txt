@@ -1,0 +1,8 @@
+python-dotenv
+sentence-transformers 
+google-genai
+pydantic
+fastapi 
+uvicorn
+faiss-cpu 
+# faiss-gpu 
